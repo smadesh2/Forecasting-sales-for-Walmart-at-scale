@@ -1,3 +1,6 @@
+# Forecasting-sales-for-Walmart-at-scale
+
+
 Big Data analytics in the retail sector is enabling companies to create custom recommendations based on their purchase history thereby resulting in personalized shopping experiences and improved customer service. 
 
 • **Objective**: Predict the weekly sales of each store - department combination using different factors that affect sales, such as unemployment rates, fuel prices, temperature, and holidays, in order to maximize resources and achieve maximum return on investment.
